@@ -110,8 +110,8 @@ export const GlobalStyle = ({ children }: GlobalStyleProps): JSX.Element => {
       3: "2rem",
       4: "3rem",
       5: "4rem",
-      section: "10rem",
-      sectionMobile: "4rem",
+      section: "3rem",
+      sectionMobile: "1rem",
     },
     fonts: {
       titles: '"IBM Plex Sans", sans-serif;',
